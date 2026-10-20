@@ -20,4 +20,4 @@ Recommend a 2024 premium for a marine third-party liability policy using the cli
 Microsoft Excel (data cleaning, pivot tables, charts, pricing calculations)
 
 ## Files
-- `Actuarial_Task 2 - Claims...xlsx` – claims data, analysis and pricing model
+- `AIG_Pricing_Model.xlsx` – claims data, analysis and pricing model
